@@ -34,6 +34,9 @@ node --version
 Onde será retornada a versão instalada no sistema.
 
 --- 
-Este artigo foi inscrito baseado em uma questão do QAStack. Link da 
+Este artigo foi escrito baseado em uma questão do QAStack. Link da 
 dúvida original: [Atualizando o Node.js para a versão mais 
 recente](https://qastack.com.br/programming/10075990/upgrading-node-js-to-latest-version)
+
+---
+[Retornar ao índice principal](README.md)
